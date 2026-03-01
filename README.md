@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <h1 align="center">🔓 RAR‑Cracker‑Ghost</h1>
-<h3 align="center">Aplikasi Python untuk membantu menemukan kata sandi file RAR</h3>
+<h3 align="center">Aplikasi Python untuk Peretasan kata sandi file RAR</h3>
 
 <p align="center">
   <img src="/img/sampel.png" alt="Sample Preview" width="80%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
